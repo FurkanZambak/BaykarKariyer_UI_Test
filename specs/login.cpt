@@ -1,0 +1,59 @@
+# Başarılı Bir Şekilde Sisteme Login Olunması
+* Login sayfası için Giriş butonuna tıklanır
+* Header alanının görünür olduğunun kontrol edilmesi
+* Email alanına "furkan_zambak@outlook.com" değeri girilir
+* Şifre alanına "XXnemesis101" değeri girilir
+* Captcha checkboxının işaretlenmesi
+* Giriş butonuna tıklanması
+* Sayfa url değerinin "https://kariyer.baykartech.com/tr/dashboard/" olduğunun kontrol edilmesi
+
+# Tüm Alanlar Boş Bırakıldığında Gerekli Uyarıların Tetiklenmesi
+* Giriş butonuna tıklanması
+* "3" tane alan için "Bu alan zorunlu." uyarısının tetiklendiğinin görülmesi
+
+# Captcha Checkboxı Boş Bırakıldığında Uyarının Tetiklenmesi
+* Email alanına "furkan_zambak@outlook.com" değeri girilir
+* Şifre alanına "asd123" değeri girilir
+* Giriş butonuna tıklanması
+* "1" tane alan için "Bu alan zorunlu." uyarısının tetiklendiğinin görülmesi
+
+# E-Posta Alanı Boş Bırakıldığında Uyarının Tetiklenmesi
+* Şifre alanına "asd123" değeri girilir
+* Captcha checkboxının işaretlenmesi
+* Giriş butonuna tıklanması
+* "1" tane alan için "Bu alan zorunlu." uyarısının tetiklendiğinin görülmesi
+
+# Şifre Alanı Boş Bırakıldığında Uyarının Tetiklenmesi
+* Email alanına "furkan_zambak@outlook.com" değeri girilir
+* Captcha checkboxının işaretlenmesi
+* Giriş butonuna tıklanması
+* "1" tane alan için "Bu alan zorunlu." uyarısının tetiklendiğinin görülmesi
+
+# Sadece Şifre Alanı Dolu Olduğunda Uyarıların Tetiklenmesi
+* Şifre alanına "asd123" değeri girilir
+* Giriş butonuna tıklanması
+* "2" tane alan için "Bu alan zorunlu." uyarısının tetiklendiğinin görülmesi
+
+# Sadece E-Posta Alanı Dolu Olduğunda Uyarıların Tetiklenmesi
+* Email alanına "furkan_zambak@outlook.com" değeri girilir
+* Giriş butonuna tıklanması
+* "2" tane alan için "Bu alan zorunlu." uyarısının tetiklendiğinin görülmesi
+
+# Sadece Captcha Alanı Dolu Olduğunda Uyarıların Tetiklenmesi
+* Captcha checkboxının işaretlenmesi
+* Giriş butonuna tıklanması
+* "2" tane alan için "Bu alan zorunlu." uyarısının tetiklendiğinin görülmesi
+
+# Geçersiz E-Posta Değeri İçin Uyarının Tetiklenmesi
+* Email alanına "furkan_zambak111@outlook.com" değeri girilir
+* Şifre alanına "XXnemesis101" değeri girilir
+* Captcha checkboxının işaretlenmesi
+* Giriş butonuna tıklanması
+* "1" tane alan için "Girdiğiniz e-posta adresi ve/veya parola doğru değil." uyarısının tetiklendiğinin görülmesi
+
+# Geçersiz Şifre Değeri İçin Uyarının Tetiklenmesi
+* Email alanına "furkan_zambak@outlook.com" değeri girilir
+* Şifre alanına "testtest" değeri girilir
+* Captcha checkboxının işaretlenmesi
+* Giriş butonuna tıklanması
+* "1" tane alan için "Girdiğiniz e-posta adresi ve/veya parola doğru değil." uyarısının tetiklendiğinin görülmesi

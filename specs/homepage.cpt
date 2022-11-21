@@ -1,0 +1,62 @@
+# Uygulama Anasayfasının Açılması
+* Kariyer BaykarTech anasayfasının açılması
+* Anasayfanın açıldığının kontrolü
+* Logonun anasayfada görünür olduğunun kontrolü
+
+# İstatistik Alanının Kontrol Edilmesi
+* Kariyer linkine mouse hover yapılır
+* İstatistik linkine tıklanır
+* İstatistikler header elementinin görünürlüğü kontrol edilir
+* Mühendis text alanının görünürlüğünün kontrol edilmesi
+* Mühendis sayacının değerinin doğru olduğunun kontrolü
+* Teknisyen text alanının görünürlüğünün kontrol edilmesi
+* Teknisyen sayacının değerinin doğru olduğunun kontrolü
+* Çalışan text alanının görünürlüğünün kontrol edilmesi
+* Çalışan sayacının değerinin doğru olduğunun kontrolü
+
+# Yerleşkelerimiz Alanının Kontrol Edilmesi
+* Kariyer linkine mouse hover yapılır
+* Yerleşkelerimiz linkine tıklanır
+* Yerleşkelerimiz header elementinin görünürlüğü kontrol edilir
+* "Özdemir Bayraktar Ar-Ge ve Üretim Merkezi" title değerinin doğruluğunun kontrol edilmesi
+* Paragraf alanında "Özdemir Bayraktar Ar-Ge ve Üretim Merkezi" değerinin gözükmesi
+* "Keşan Uçuş Eğitim ve Test Merkezi" kampüsünün seçilmesi
+* "Keşan Uçuş Eğitim ve Test Merkezi" title değerinin doğruluğunun kontrol edilmesi
+* Paragraf alanında "Keşan Uçuş Eğitim ve Test Merkezi" değerinin gözükmesi
+* "Çorlu Uçuş Eğitim ve Test Merkezi" kampüsünün seçilmesi
+* "Çorlu Uçuş Eğitim ve Test Merkezi" title değerinin doğruluğunun kontrol edilmesi
+* Paragraf alanında "Çorlu Uçuş Eğitim ve Test Merkezi" değerinin gözükmesi
+
+# Sunduğumuz Faydalar Alanının Kontrol Edilmesi
+* Kariyer linkine mouse hover yapılır
+* Sunduğumuz Faydalar linkine tıklanır
+* Sunduğumuz Faydalar header elementinin görünürlüğü kontrol edilir
+* "EĞİTİM" title değerinin kontrol edilmesi
+* Seçili imkan değerinin açıklamasının "Yüksek Lisans ve Doktora eğitimlerine" textini içermesi
+* "SERVİS HİZMETİ" imkanının seçilmesi
+* "SERVİS HİZMETİ" title değerinin kontrol edilmesi
+* Seçili imkan değerinin açıklamasının "servis hizmeti sağlıyoruz." textini içermesi
+* "SOSYAL YAŞAM" imkanının seçilmesi
+* "SOSYAL YAŞAM" title değerinin kontrol edilmesi
+* Seçili imkan değerinin açıklamasının "en uygun sosyal alanları sağlıyoruz." textini içermesi
+* "SAĞLIK" imkanının seçilmesi
+* "SAĞLIK" title değerinin kontrol edilmesi
+* Seçili imkan değerinin açıklamasının "Seni ve sağlığını önemsiyoruz." textini içermesi
+* "KREŞ" imkanının seçilmesi
+* "KREŞ" title değerinin kontrol edilmesi
+* Seçili imkan değerinin açıklamasının "Çok yakında" textini içermesi
+
+# Sosyal Alanlar Bölümünün Kontrol Edilmesi
+* Kariyer linkine mouse hover yapılır
+* Sosyal Alanlar linkine tıklanır
+* Sosyal alanlar header elementinin görünürlüğü kontrol edilir
+* Sliderın ileri yönde çalıştığının kontrolü
+* Sliderın geri yönde çalıştığının kontrolü
+
+# Açık Pozisyonlar Bölümünün Kontrol Edilmesi
+* Açık Pozisyonlar linkine tıklanır
+* Açık Pozisyonlar header alanının görünür olduğunun kontrolü
+* Açık Pozisyon sliderının ileri yönde çalıştığının kontrolü
+* Açık Pozisyon sliderının geri yönde çalıştığının kontrolü
+* Sliderda Detay butonlarının bulunduğunun kontrolü
+* Seçili pozisyon için detay sayfasının açılması

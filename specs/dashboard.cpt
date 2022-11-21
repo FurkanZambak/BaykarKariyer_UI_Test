@@ -1,0 +1,35 @@
+# Dashboard Profil Menüsündeki Kontroller
+* Profil ikonunda "FZ" kısaltmasının gözükmesi
+* "FZ" ikonuna tıklayarak profil menüsünün açılması
+* Menüde "FZ" textinin gözükmesi
+* Menüde "Furkan Zambak" textinin gözükmesi
+* Menüde "furkan_zambak@outlook.com" değerinin gözükmesi
+
+# Özet Profil Bilgilerinin Kontrol Edilmesi
+* Profil header elementinin görünür olduğunun kontrolü
+* Profil alanında isim soyisim değeri "Furkan Zambak" valid olduğunun kontrolü
+* Profil alanında telefon numarası değeri "(553) 852-0335" valid olduğunun kontrolü
+* Profil alanında eposta değeri "furkan_zambak@outlook.com" valid olduğunun kontrolü
+
+# Ön Değerlendirme Tabının Kontrol Edilmesi
+* "Ön Değerlendirme" tabının aktif olduğunun kontrolü
+* Tablo headerının değerinin "Ön Değerlendirme" olduğunun kontrolü
+* "Ön Değerlendirme" durumunda kayıt varsa tabloda görüntülendiğinin kontrolü
+
+# Mülakat Aşaması Tabının Kontrol Edilmesi
+* "Mülakat Aşaması" tabının aktif edilmesi
+* "Mülakat Aşaması" tabının aktif olduğunun kontrolü
+* Tablo headerının değerinin "Mülakat Aşaması" olduğunun kontrolü
+* "Mülakat Aşaması" durumunda kayıt varsa tabloda görüntülendiğinin kontrolü
+
+# Değerlendirme Aşaması Tabının Kontrol Edilmesi
+* "Değerlendirme Aşaması" tabının aktif edilmesi
+* "Değerlendirme Aşaması" tabının aktif olduğunun kontrolü
+* Tablo headerının değerinin "Değerlendirme Aşaması" olduğunun kontrolü
+* "Değerlendirme Aşaması" durumunda kayıt varsa tabloda görüntülendiğinin kontrolü
+
+# Değerlendirme Sonucu Tabının Kontrol Edilmesi
+* "Değerlendirme Sonucu" tabının aktif edilmesi
+* "Değerlendirme Sonucu" tabının aktif olduğunun kontrolü
+* Tablo headerının değerinin "Değerlendirme Sonucu" olduğunun kontrolü
+* "Değerlendirme Sonucu" durumunda kayıt varsa tabloda görüntülendiğinin kontrolü
